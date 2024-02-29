@@ -1,0 +1,14 @@
+{
+  "name": "fivem-js-boilerplate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "keywords": [],
+  "author": "Bong",
+  "license": "ISC",
+  "dependencies": {
+    "@citizenfx/client": "^2.0.7542-1",
+    "@citizenfx/server": "^2.0.7542-1",
+    "webpack": "4.28.4"
+  }
+}
